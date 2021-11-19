@@ -1,0 +1,16 @@
+Demographic risk factors
+male: sex of patient
+age: age in years at first examination
+education: Some high school (1), high school/GED (2), some college/vocational school (3), college (4)
+currentSmoker: do they smoke
+cigsPerDay: Smoking behavior 
+BPmeds: On blood pressure medication at time of first examination
+prevalentStroke: Previously had a stroke
+prevalentHyp: Currently hypertensive
+diabetes: Currently has diabetes 
+totChol: Total cholesterol (mg/dL)
+sysBP: Systolic blood pressure
+diaBP: Diastolic blood pressure
+BMI: Body Mass Index, weight (kg)/height (m)^2
+heartRate: Heart rate (beats/minute)
+glucose: Blood glucose level (mg/dL)

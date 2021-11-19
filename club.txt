@@ -1,0 +1,14 @@
+credit_policy: Do they meet Lending Clubs underwriting policy
+purpose: The purpose of the loan
+int_rate: The interest rate for the loan
+installment: The monthly payment for the loan
+log_annual_income: The natural logrithm of the borrower's monthly income
+dti: Debt to Income Ratio
+fico: FICO Credit Score
+days_with_cr_line: Number of days for the credit line
+revol_bal: The balance on their credit card at the end of each month
+revol_util: The percentage of credit line used over available
+inq_last_6mths: Number of creditors calling the borrower
+delinq_2yrs: Number of times borrower failed to pay in last 2 years
+pub_rec: Number of negative reports on borrowers history
+not_fully_paid: 1 means they didn't pay. 0 means paid in full.

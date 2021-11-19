@@ -1,0 +1,7 @@
+Species: Name of fish species
+Weight: how much the fish weighs in grams
+Length1: vertical length in cm
+Length2: diagonal length in cm
+Length3: cross length in cm
+Height: height in cm
+Width: diagonal width in cm
